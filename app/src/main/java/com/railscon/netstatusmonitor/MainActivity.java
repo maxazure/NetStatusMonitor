@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
                                  }
                                  textView.setText(res.toString());
                              } else {
-                                 textView.setText("none");
+                                 textView.setText(R.string.none);
                              }
 
 

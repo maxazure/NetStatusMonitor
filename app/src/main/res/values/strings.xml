@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NetStatusMonitor</string>
+    <string name="none">none</string>
 </resources>
